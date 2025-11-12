@@ -285,7 +285,7 @@ const LINES = {
         "name": "Logan Meyer",
         "year": 2023,
         "sons": []
-    }
+    },
 
 
     // LINE 4
