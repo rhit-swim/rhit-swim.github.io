@@ -1,7 +1,7 @@
 
 <!-- Hides Github Page Title -->
 <style>
-h1 a[href="https://sellersevan.github.io/rose-swim/"] { display: none; }
+h1 a[href="https://github.com/rhit-swim/rhit-swim.github.io/"] { display: none; }
 h1 { border: none; }
 </style>
 
@@ -30,7 +30,7 @@ h1 { border: none; }
         </a>
     </div>
     <div style="padding-right:1rem">
-        <a href="/rose-swim/lineage">
+        <a href="/lineage">
             TBT Lineage Tree
         </a>
     </div>
@@ -40,7 +40,7 @@ h1 { border: none; }
         </a>
     </div>
     <div style="padding-right:1rem">
-        <a href="https://github.com/SellersEvan/rose-swim">
+        <a href="https://github.com/rhit-swim/rhit-swim.github.io/">
             Edit Github
         </a>
     </div>
