@@ -194,6 +194,19 @@ const LINES = {
     "eric_sinclair": {
         "name": "Eric Sinclair",
         "year": 2023,
+        "sons": [
+            "ethan_moen"
+            "evan_calvert"
+        ]
+    },
+    "ethan_moen": {
+        "name": "Ethan Moen",
+        "year": 2024,
+        "sons": []
+    },
+    "evan_calvert": {
+        "name": "Evan Calvert",
+        "year": 2024,
         "sons": []
     },
 
