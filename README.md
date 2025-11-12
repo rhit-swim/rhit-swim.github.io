@@ -55,7 +55,6 @@ h1 { border: none; }
 ### Cookout
 
 
-
 ## TBT Induction Process
 ### Rushing 
 Rush starts the second Tuesday after practice starts. All freshman are required to attend the first TBT session. It is customary that the freshman are unaware of the activity they are going to and that upper classmen drive them to the first session. They are usually told to bring random items to confuse them. To receive a "bid" they must attend at least one more session. The rushing process should be at least 6 weeks.
