@@ -657,7 +657,7 @@ const LINES = {
     },
     "zach_easter": {
         "name": "Zach Easter",
-        "year": 2025,
+        "year": 2024,
         "sons": []
     },
 
