@@ -153,7 +153,7 @@ const LINES = {
         ]
     },
     "michael_nixon": {
-        "name": "Michael Nixon",
+        "name": "President Michael Nixon",
         "year": 2018,
         "sons": [
             "ryan_nikolic",
@@ -195,20 +195,41 @@ const LINES = {
         "name": "Eric Sinclair",
         "year": 2023,
         "sons": [
-            "ethan_moen"
+            "ethan_moen",
             "evan_calvert"
         ]
     },
     "ethan_moen": {
         "name": "Ethan Moen",
         "year": 2024,
-        "sons": []
+        "sons": [
+            "joey_leto",
+            "margad_pagva"
+        ]
     },
     "evan_calvert": {
         "name": "Evan Calvert",
         "year": 2024,
+        "sons": [
+            "jared_beasley"
+        ]
+    },
+    "joey_leto": {
+        "name": "Joey Leto",
+        "year": 2025,
         "sons": []
     },
+    "margad_pagva": {
+        "name": "Margad Pagva",
+        "year": 2025,
+        "sons": []
+    },
+    "jared_beasley": {
+        "name": "Jared Beasley",
+        "year": 2025,
+        "sons": []
+    },
+            
 
 
     // LINE 3
@@ -337,7 +358,7 @@ const LINES = {
         "sons": [
             "blaise_swartwood",
             "brian_beasley",
-            "garett_walls",
+            "garrett_walls",
             "emre_gunay"
         ]
     },
@@ -377,7 +398,7 @@ const LINES = {
         "sons": []
     },
     "will_kenyon": {
-        "name": "Will Kenyon",
+        "name": "President Will Kenyon",
         "year": 2021,
         "sons": [
             "aidan_carter",
@@ -390,7 +411,7 @@ const LINES = {
         "sons": []
     },
     "aidan_carter": {
-        "name": "Aidan Carter",
+        "name": "President Aidan Carter",
         "year": 2022,
         "sons": [
             "walter_kotlin"
@@ -414,16 +435,58 @@ const LINES = {
     "walter_kotlin": {
         "name": "Walter Kotlin",
         "year": 2023,
-        "sons": []
+        "sons": [
+            "josh_craig"
+        ]
     },
-    "garett_walls": {
-        "name": "Garett Walls",
+    "garrett_walls": {
+        "name": "President Garrett Walls",
         "year": 2023,
-        "sons": []
+        "sons": [
+            "gabe_stille"
+        ]
     },
     "emre_gunay": {
         "name": "Emre Gunay",
         "year": 2023,
+        "sons": [
+            "andrew_geiger"
+        ]
+    },
+    "josh_craig": {
+        "name": "Josh Craig (Chewy)",
+        "year": 2024,
+        "sons": [
+            "sam_stevenot"
+        ]
+    },
+    "sam_stevenot": {
+        "name": "Sam Stevenot",
+        "year": 2025,
+        "sons": []
+    },
+    "andrew_geiger": {
+        "name": "Andrew Geiger",
+        "year": 2024,
+        "sons": [
+            "ethan_crane"
+        ]
+    },
+    "ethan_crane": {
+        "name": "Ethan Crane",
+        "year": 2025,
+        "sons": []
+    },
+    "gabe_stille": {
+        "name": "Gabe Stille (Crunchy)",
+        "year": 2024,
+        "sons": [
+            "levi_galaviz"
+        ]
+    },
+    "levi_galaviz": {
+        "name": "Levi Galaviz",
+        "year": 2025,
         "sons": []
     },
 
@@ -588,6 +651,13 @@ const LINES = {
     "parker_siddons": {
         "name": "Parker Siddons",
         "year": 2023,
+        "sons": [
+            "zach_easter"
+        ]
+    },
+    "zach_easter": {
+        "name": "Zach Easter",
+        "year": 2025,
         "sons": []
     },
 
