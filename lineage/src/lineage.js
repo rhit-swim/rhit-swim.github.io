@@ -94,7 +94,9 @@ const LINES = {
     "tommaso_calviello": {
         "name": "Tommaso Calviello",
         "year": 2022,
-        "sons": []
+        "sons": [
+            "ethan_crane"
+        ]
     },
     "nathan_j_neppl": {
         "name": "Nathan J Neppl",
@@ -106,6 +108,11 @@ const LINES = {
     "mitchell_cunningham": {
         "name": "Rhea Cunningham",
         "year": 2023,
+        "sons": []
+    },
+    "ethan_crane": {
+        "name": "Ethan Crane",
+        "year": 2025,
         "sons": []
     },
 
@@ -450,7 +457,7 @@ const LINES = {
         "name": "Emre Gunay",
         "year": 2023,
         "sons": [
-            "andrew_geiger"
+            "andrew_sampson"
         ]
     },
     "josh_craig": {
@@ -465,16 +472,9 @@ const LINES = {
         "year": 2025,
         "sons": []
     },
-    "andrew_geiger": {
-        "name": "Andrew Geiger",
+    "andrew_sampson": {
+        "name": "Andrew Sampson",
         "year": 2024,
-        "sons": [
-            "ethan_crane"
-        ]
-    },
-    "ethan_crane": {
-        "name": "Ethan Crane",
-        "year": 2025,
         "sons": []
     },
     "gabe_stille": {
