@@ -10,7 +10,7 @@ const NEW_LINES = [
     "nate_weber",
     "pat_king",
     "pierce_bartine",
-    "ryan_bowering"
+    "ryan_bowering_tree"
 ];
 
 
@@ -654,6 +654,13 @@ const LINES = {
     },
 
     // LINE 7
+    "ryan_bowering_tree": {
+        "name": "",
+        "year": 2014,
+        "sons": [
+                 "ryan_bowering"
+        ]
+    },
     "ryan_bowering": {
         "name": "Ryan Bowering (Bowser)",
         "year": 2023,
