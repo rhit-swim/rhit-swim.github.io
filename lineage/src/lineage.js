@@ -506,7 +506,7 @@ const LINES = {
     "trevor_wiley": {
         "name": "Trevor Wiley",
         "year": 2024,
-        "sons: []
+        "sons": []
     },
 
 
