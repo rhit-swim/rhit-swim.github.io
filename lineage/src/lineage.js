@@ -498,16 +498,17 @@ const LINES = {
             "levi_galaviz"
         ]
     },
-    "levi_galaviz": {
-        "name": "Levi Galaviz",
-        "year": 2025,
-        "sons": []
-    },
     "trevor_wiley": {
         "name": "Trevor Wiley",
         "year": 2024,
         "sons": []
     },
+    "levi_galaviz": {
+        "name": "Levi Galaviz",
+        "year": 2025,
+        "sons": []
+    },
+
 
 
     // LINE 5
@@ -664,7 +665,7 @@ const LINES = {
         "name": "",
         "year": 2014,
         "sons": [
-                 "ryan_bowering"
+            "ryan_bowering"
         ]
     },
     "ryan_bowering": {
